@@ -14,11 +14,8 @@ output:
 ================================================================================
   REPOSITORY: https://github.com/mdettleson/LT4-TSH-ML-prediction
   
-  MANUSCRIPT: Ettleson MD, et al. "Predicting TSH Dysregulation in 
-              Levothyroxine-Treated Patients Using Supervised Machine Learning."
-              Journal of Clinical Endocrinology & Metabolism (in press).
 
-  DATA AVAILABILITY: The patient-level datasets (ds.full.csv, ds.reduced.csv)
+  DATA AVAILABILITY (under review): The patient-level datasets (ds.full.csv, ds.reduced.csv)
   used in this analysis are derived from the University of Chicago Medicine
   electronic health record and cannot be shared publicly due to patient privacy
   regulations. Researchers interested in data access should contact the
