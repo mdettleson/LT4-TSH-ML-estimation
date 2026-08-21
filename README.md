@@ -61,5 +61,7 @@ The study was supported by the National Institute of Diabetes and Digestive and 
 Contact
 
 Matthew Ettleson, MD
+
 University of Chicago
+
 Matthew.Ettleson@uchicagomedicine.org
