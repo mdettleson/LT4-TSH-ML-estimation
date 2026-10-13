@@ -1,0 +1,27 @@
+# ── Patient-level data: NEVER commit ─────────────────────────────────────────
+ds.full.csv
+ds.reduced.csv
+*.csv
+!synthetic_data/*.csv
+
+# ── Model / SHAP caches: caret objects embed the training data ───────────────
+cache/
+cache_dev/
+*.rds
+*.RData
+*.rda
+
+# ── R / RStudio session files ────────────────────────────────────────────────
+.Rproj.user/
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+*.Rproj
+*_cache/
+*_files/
+
+# ── OS / editor ──────────────────────────────────────────────────────────────
+.DS_Store
+._*
+*.swp
